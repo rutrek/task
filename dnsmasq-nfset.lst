@@ -1060,4 +1060,3 @@ nftset=/zendesk.com/4#inet#fw4#vpn_domains
 nftset=/zerkalo.io/4#inet#fw4#vpn_domains
 nftset=/zona.media/4#inet#fw4#vpn_domains
 nftset=/factorio.com/4#inet#fw4#vpn_domains
-nftset=/charlesproxy.com/4#inet#fw4#vpn_domains
