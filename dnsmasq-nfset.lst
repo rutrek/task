@@ -1132,11 +1132,3 @@ nftset=/dynamodb.amazonaws.com/#inet#fw4#vpn_domains
 nftset=/lambda.amazonaws.com/#inet#fw4#vpn_domains
 nftset=/iam.amazonaws.com/#inet#fw4#vpn_domains
 nftset=/sts.amazonaws.com/#inet#fw4#vpn_domains
-nftset=/fastly.net/#inet#fw4#vpn_domains
-nftset=/akamai.net/#inet#fw4#vpn_domains
-nftset=/edgesuite.net/#inet#fw4#vpn_domains
-nftset=/edgekey.net/#inet#fw4#vpn_domains
-nftset=/steamstatic.com/#inet#fw4#vpn_domains
-nftset=/steamcontent.com/#inet#fw4#vpn_domains
-nftset=/akamai.steamstatic.com/#inet#fw4#vpn_domains
-
